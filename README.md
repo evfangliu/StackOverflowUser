@@ -1,4 +1,4 @@
 # StackOverflowUser
 Created by Evan Liu.
-Designed primarily for iPhone 7.
+Designed primarily for iPhones.
 Asynchronously downloads gravatar and animates with fade.
